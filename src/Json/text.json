@@ -1,0 +1,104 @@
+{
+    "FR" : {
+"page" : {
+            "title" : "Carte interactive de la providence",
+            "footer": "La Providence 2025"
+        },
+        "zone" : {
+            "college" : {
+                "floors": [
+                {
+                    "rooms": [
+                        {
+                            "name": "Salle 1 de l'étage 1",
+                            "description": "Description etage 1 salle 1"
+                        },
+                        {
+                            "name": "Salle 2 de l'étage 1",
+                            "description": "Description etage 1 salle 2"
+                        }
+                    ]
+                },
+                {
+                    "rooms": [
+                        {
+                            "name": "Salle 1 de l'étage 2",
+                            "description": "Description etage 2 salle 1"
+                        },
+                        {
+                            "name": "Salle 2 de l'étage 2",
+                            "description": "Description etage 2 salle 2"
+                        }
+                    ]
+                },
+                {
+                    "rooms": [
+                        {
+                            "name": "Salle 1 de l'étage 3",
+                            "description": "Description etage 3 salle 1"
+                        },
+                        {
+                            "name": "Salle 2 de l'étage 3",
+                            "description": "Description étage 3 salle 2"
+                        }
+                    ]
+                }
+            ]
+            }
+        }
+    },
+    "EN" : {
+        "page" : {
+            "title" : "Interactive Map of the Providence",
+            "footer" : "La Providence 2025"
+        },
+        "zone" : {
+            "college" : {
+                "music": {
+                    "title" : "Music Room",
+                    "description" : "This is a music room"
+                }
+            }
+        }
+    },
+    "zones" : {
+        "college" : {
+            "coordinates": [0.14, 0.15, 0.20, 0.21],
+            "floors": [
+                {
+                    "coordinates": [0.14, 0.15, 0.20, 0.21],
+                    "rooms": [
+                        {
+                            "coordinates": [0.14, 0.15, 0.20, 0.21]
+                        },
+                        {
+                            "coordinates": [0.14, 0.15, 0.20, 0.21]
+                        }
+                    ]
+                },
+                {
+                    "coordinates": [0.14, 0.15, 0.20, 0.21],
+                    "rooms": [
+                        {
+                            "coordinates": [0.14, 0.15, 0.20, 0.21]
+                        },
+                        {
+                            "coordinates": [0.14, 0.15, 0.20, 0.21]
+                        }
+                    ]
+                },
+                {
+                    "coordinates": [0.14, 0.15, 0.20, 0.21],
+                    "rooms": [
+                        {
+                            "coordinates": [0.14, 0.15, 0.20, 0.21]
+                        },
+                        {
+                            "coordinates": [0.14, 0.15, 0.20, 0.21]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
